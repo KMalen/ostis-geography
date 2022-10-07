@@ -4,6 +4,11 @@ santa_shop_38538303<-concept_santa_shop;
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [Santa]
 (* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[52.459650]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[30.953609]
 =>nrel_country:
 belarus;
 =>nrel_street:
@@ -12,5 +17,8 @@ belarus;
 =>nrel_house_number:
 [2]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[8:00 - 23:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 gomel;;

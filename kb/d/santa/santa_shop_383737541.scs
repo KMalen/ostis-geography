@@ -16,7 +16,10 @@ belarus;
 [бульвар Ленинского Комсомола]
 (* <- lang_ru;; <- street;;*);
 =>nrel_house_number:
-[44]
+[44Б]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[8:00 - 23:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 hrodna;;

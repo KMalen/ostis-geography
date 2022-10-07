@@ -4,6 +4,12 @@ santa_shop_472864986<-concept_santa_shop;
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [Santa]
 (* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[53.694834]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[23.838853]
+(* <- lang_ru;; <- longitude;;*);
 =>nrel_country:
 belarus;
 =>nrel_street:
@@ -12,5 +18,8 @@ belarus;
 =>nrel_house_number:
 [54А]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[8:00 - 23:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 hrodna;;

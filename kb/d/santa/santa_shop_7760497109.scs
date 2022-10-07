@@ -12,5 +12,14 @@ santa_shop_7760497109<-concept_santa_shop;
 (* <- lang_ru;; <- longitude;;*);
 =>nrel_country:
 belarus;
+=>nrel_street:
+[улица Советской Конституции]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[26/1]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[9:30 - 21:30]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 brest;;

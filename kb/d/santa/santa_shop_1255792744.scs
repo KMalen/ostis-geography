@@ -16,7 +16,10 @@ belarus;
 [улица Мицкевича]
 (* <- lang_ru;; <- street;;*);
 =>nrel_house_number:
-[25]
+[19]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[8:00 - 21:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 brest;;

@@ -18,5 +18,8 @@ belarus;
 =>nrel_house_number:
 [18А]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[00:00 - 00:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 minsk;;
