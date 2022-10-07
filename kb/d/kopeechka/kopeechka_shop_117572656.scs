@@ -4,6 +4,12 @@ kopeechka_shop_117572656<-concept_kopeechka_shop;
 (* <- lang_ru;; <- name_ru;; <- name;;*);
 [Kopeechka]
 (* <- lang_en;; <- name_en;;*);
+=>nrel_latitude:
+[53.654829]
+(* <- lang_ru;; <- latitude;;*);
+=>nrel_longitude:
+[23.779933]
+(* <- lang_ru;; <- longitude;;*);
 =>nrel_country:
 belarus;
 =>nrel_street:
@@ -12,5 +18,8 @@ belarus;
 =>nrel_house_number:
 [118А]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[9:00-22:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 hrodna;;

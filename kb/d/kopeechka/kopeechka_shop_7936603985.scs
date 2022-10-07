@@ -5,15 +5,21 @@ kopeechka_shop_7936603985<-concept_kopeechka_shop;
 [Kopeechka]
 (* <- lang_en;; <- name_en;;*);
 =>nrel_latitude:
-[52.4472092]
+[52.446907]
 (* <- lang_ru;; <- latitude;;*);
 =>nrel_longitude:
-[30.9692001]
+[30.958164]
 (* <- lang_ru;; <- longitude;;*);
 =>nrel_country:
 belarus;
 =>nrel_street:
 [улица Бориса Царикова]
 (* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[44]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[9:00 - 22:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 gomel;;

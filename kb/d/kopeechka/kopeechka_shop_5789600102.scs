@@ -13,7 +13,13 @@ kopeechka_shop_5789600102<-concept_kopeechka_shop;
 =>nrel_country:
 belarus;
 =>nrel_street:
-[улица Мазурова]
+[улица Головацкого]
 (* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[111 к1]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[8:00 - 21:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 gomel;;

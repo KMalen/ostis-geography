@@ -18,5 +18,8 @@ belarus;
 =>nrel_house_number:
 [27]
 (* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[9:00-22:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 vitebsk;;

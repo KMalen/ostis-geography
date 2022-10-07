@@ -12,5 +12,14 @@ kopeechka_shop_4647430190<-concept_kopeechka_shop;
 (* <- lang_ru;; <- longitude;;*);
 =>nrel_country:
 belarus;
+=>nrel_street:
+[улица 50 лет Победы]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[8]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[9:00 - 23:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 minsk;;

@@ -11,6 +11,14 @@ kopeechka_shop_9504278710<-concept_kopeechka_shop;
 [27.4899092]
 (* <- lang_ru;; <- longitude;;*);
 =>nrel_country:
-belarus;
+belarus;=>nrel_street:
+[улица Данилы Сердича]
+(* <- lang_ru;; <- street;;*);
+=>nrel_house_number:
+[10Б]
+(* <- lang_ru;; <- house_number;;*);
+=>nrel_store_opening_hours:
+[9:00 - 22:00]
+(* <- lang_ru;; <- store_opening_hours;;*);
 =>nrel_search_area:
 minsk;;
